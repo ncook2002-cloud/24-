@@ -1,0 +1,6 @@
+{
+  "name": "박문수천안요리학원 & 엔쿡 | 24시간 스마트 입학상담실",
+  "description": "25년 현장 조리직업훈련 명문 박문수천안요리학원 & 엔쿡의 24시간 스마트 입학상담실. 1인 1실습대 전담 책임제 맞춤 과정 추천, 24시 AI 입학상담, 원장님 직통 1:1 방문·수강 상담 사전예약 서비스를 제공합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
